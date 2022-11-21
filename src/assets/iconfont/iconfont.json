@@ -1,0 +1,86 @@
+{
+  "id": "3688239",
+  "name": "vue-stock",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12260374",
+      "name": "MPIS-StatisticalAnalysis",
+      "font_class": "MPIS-StatisticalAnalysis",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "6151301",
+      "name": "search",
+      "font_class": "search1",
+      "unicode": "e82e",
+      "unicode_decimal": 59438
+    },
+    {
+      "icon_id": "585824",
+      "name": "OEEAnalysis",
+      "font_class": "oeeanalysis",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "927719",
+      "name": "ico-user-info1",
+      "font_class": "ico-user-info1",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "1078601",
+      "name": "share_share",
+      "font_class": "shareshare",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "4936624",
+      "name": "folder-open-fill",
+      "font_class": "folder-open-fill",
+      "unicode": "e85e",
+      "unicode_decimal": 59486
+    },
+    {
+      "icon_id": "7241437",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "10043892",
+      "name": "Account",
+      "font_class": "Account",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "12265788",
+      "name": "userinformation_defalut",
+      "font_class": "userinformation_defalut",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "16035731",
+      "name": "stock-line",
+      "font_class": "stock-line",
+      "unicode": "e728",
+      "unicode_decimal": 59176
+    },
+    {
+      "icon_id": "21242891",
+      "name": "实验",
+      "font_class": "shiyan",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+@mixin flexLayout($x, $y) {
+    display: flex;
+    align-items: $x;
+    justify-content: $y;
+}
